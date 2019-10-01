@@ -3,9 +3,9 @@
 ### Project Description
 This project implements a NLP classifier on text messages generated during natural disasters. Based on the content of the message, the algorithm assigns the message to one or more categories, assisting first responders in more accurately assessing needs on the ground. The associated web app allows a user to enter a message, and see how the algorithm classifies it.
 
-![image](plot1_snapshot.jpg)
+![image](https://github.com/goitom/project_2_disaster_response/blob/master/plot1_snapshot.JPG)
 
-![image](plot2_snapshot.jpg)
+![image](https://github.com/goitom/project_2_disaster_response/blob/master/plot2_snapshot.JPG)
 
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
